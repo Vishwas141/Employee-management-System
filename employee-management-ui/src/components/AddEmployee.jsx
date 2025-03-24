@@ -34,7 +34,7 @@ const AddEmployee = () => {
             console.log(error);
         }
 
-        // Reset the form after submission
+       
         setEmployee({
             id: "",
             firstName: "",
